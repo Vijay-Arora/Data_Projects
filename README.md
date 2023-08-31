@@ -12,3 +12,8 @@ Data Analysis and Data Visualisation Projects
 <h2> FIFA Data Analysis and Visualization </h2>
 <br>
 <p> This fifa-data-visualization.ipynb file covers the data analyses, visualization and pre-processing of the FIFA dataset where I've tried to answer some of the questions via data analysis and data visualisation. The questions are mentioned in the notebook itself.</p>
+<br>
+<h2> Data Science Models for Automated Submission Triage of Motor Insurance Data in India</h2>
+<br>
+<p> This motor-insurance-classification.ipynb file covers the exploratory data analyses, visualization and real-time pre-processing of the motor insurance dataset using Kafka where I've tried to get the data insights via data analysis and data visualisation and have performed all the business transformations using KSQLDB queries and built different classification models to compare which is the best for this kind of data.</p>
+
